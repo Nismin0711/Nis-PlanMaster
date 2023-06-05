@@ -1,6 +1,6 @@
 # Nis-PlanMaster
 
-![背景イラスト](https://example.com/背景イラストのURL)
+![背景イラスト](https://github.com/Nismin0711/Nis-PlanMaster/blob/main/bgc.png?raw=true)
 
 本プログラムは日本の主要携帯キャリアのプランを自分でWebアプリ上でシミュレートし、試算出来るプログラムです。（2023年6月6日現在のプラン内容です）
 
@@ -21,22 +21,13 @@
 1. プログラムをクローンする：
 git clone https://github.com/your/repository.git
 
-markdown
-Copy code
+2. Nis-PlanMaster.htmlをブラウザで開く：
+Open the file Nis-PlanMaster.html in your browser
 
-2. 必要なライブラリをインストールする：
-pip install -r requirements.txt
-
-markdown
-Copy code
-
-3. プログラムを実行する：
-python main.py
-
-scss
-Copy code
+3. あなたのお好みのプランを作成する：
+Create a plan to your liking
 
 ## ライセンス
 
 このプログラムはMITライセンスのもとで公開されています。詳細については、[LICENSE](LICENSE)ファイルを参照してください。
-背景イラストは、@frais_graceさんの作品です。
+背景イラストは、私の友人の爽（@frais_grace）さんの作品です。
